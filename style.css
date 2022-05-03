@@ -1,0 +1,82 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    font-family: "Outfit", sans-serif;
+    margin-left: 35px;
+    margin-top: 25px;
+    font-size: x-large;
+}
+
+p{
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+    font-family: "Outfit", sans-serif;
+    font-size: medium;
+    margin-left: 35px;
+    margin-top: 25px;
+}
+
+
+#box1{
+    border: 1px solid;
+    height: 623px;
+    width: 370px;
+    color: hsl(216, 50%, 16%);
+    background-color: hsl(216, 50%, 16%);
+    position: relative;
+    font-size: 18px;
+    border-radius: 14px;
+    
+}
+
+img{
+    height: 301px;
+    width: 301px;
+    border-radius: 10px;
+    
+}
+
+.eth{
+    color: hsl(178, 100%, 50%);
+}
+
+.days{
+    margin-left: 110px;
+}
+
+hr{
+    color: hsl(215, 32%, 27%);
+    width: 300px;
+}
+
+.jules{
+    margin-top: 25px;
+}
+
+
+.equilibrium{
+    display: block;
+    margin-left: auto;
+    margin-right: 35px;
+    margin-top: 22px;
+}
+
+.text{
+    width: 300px;
+}
+
+.avatar{
+    width: 32px;
+    height: 32px;
+}
+
+.name{
+    color: white;
+}
